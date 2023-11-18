@@ -1,5 +1,5 @@
 import random
-
+#
 class Maze:
     def __init__(self, rows, cols, seed=None):
         self.rows = rows
